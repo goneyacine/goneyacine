@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @goneyacine
 - 👀 I’m interested in GameDev & Programming 
-- 🌱 I’m thinking to start learning ML & AI this summer
+- 🌱 I’m currently learning game engine development & computer graphics
 - 📫 How to reach me on twitter @ChickenGames8
 
 <!---
