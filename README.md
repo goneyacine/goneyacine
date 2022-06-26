@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @goneyacine
-- 👀 I’m interested in GameDev & Programming 
-- 🌱 I’m currently learning game engine development & computer graphics
+- 👋 Hi, I’m Yacine Betouche
+- 👀 I’m In Machine Learning & Image Proccessing 
+- 🌱 I’m currently learning C/C++ & I wanna learn python to learn ML & AI
 - 📫 How to reach me on twitter @ChickenGames8
 
 <!---
