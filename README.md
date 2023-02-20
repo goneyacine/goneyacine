@@ -12,4 +12,4 @@ Skills : C++,Java, C#
 , Game Development
 , OpenGL
 , Git and GitHub
-, Visual Studi
+, Visual Studio
